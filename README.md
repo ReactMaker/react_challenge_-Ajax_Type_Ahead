@@ -1,5 +1,5 @@
 # react challenge - Ajax type ahead
-用 React JS 製作check list，並加上點擊shift 可複選的功能。
+使用React 做出ajax 載入搜尋列表的功能。
 
 [Demo](https://reactmaker.github.io/react_challenge_ajax_type_ahead/#/)
 
